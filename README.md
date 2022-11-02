@@ -4,7 +4,7 @@ Hi 👋 My name is Nagarjun P R
 Full stack web developer
 ------------------------
 
-*   🌍  I'm based in India
+*   🌍  I'm based in Germany
 *   ✉️  You can contact me at [nagarjunpr44@gmail.com](mailto:nagarjunpr44@gmail.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on New and interesting projects
