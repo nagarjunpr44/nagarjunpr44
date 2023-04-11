@@ -1,12 +1,12 @@
 Hi 👋 My name is Nagarjun P R
 =============================
 
-Full stack web developer
+AI Engineer
 ------------------------
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [nagarjunpr44@gmail.com](mailto:nagarjunpr44@gmail.com)
-*   🧠  I'm learning React
+*   🧠  I am currently acquiring knowledge and skills in the field of Artificial Intelligence through active learning and practical application
 *   🤝  I'm open to collaborating on New and interesting projects
 *   ⚡  I am also an adventure enthusiast, so i am always ready for a challenging trek or a hike🧗<br>
 <h2>Skills</h2>
